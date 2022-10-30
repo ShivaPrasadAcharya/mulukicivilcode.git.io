@@ -59,6 +59,22 @@ input[type=checkbox]:checked~label {
 }
 
 /* My addition */
+
+#but {
+  font-weight: bold;
+text-decoration: underline;
+  
+    }
+    #clarification {
+      font-weight: bold;
+    text-decoration: underline;
+      
+        }
+        #subarticleone, #subarticletwo, #subarticlethree, #subarticlefour, #subarticlefive,#subarticlesix, #subarticleseven, #subarticleeight, #subarticlenine, #subarticleten, #subarticleeleven, #subarticletwelve  {
+          font-weight: bold;
+          color:darkblue;
+               }
+   
 .part {
   color:blue;
   font-weight: bolder;
@@ -81,3 +97,4 @@ padding-left: 2%;
   padding-left: 2%;
   
   }
+
